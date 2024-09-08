@@ -1,4 +1,4 @@
-# block
+# assitem
 
 This project contains samples for using the
 [Google Wallet REST APIs](https://developers.google.com/wallet/) in the
